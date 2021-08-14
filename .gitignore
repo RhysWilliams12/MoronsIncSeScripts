@@ -1,6 +1,7 @@
 
 *.dll
 *.exe
+*.path.props
 
 */TempPE/*
 
