@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalMiner", "MoronsIncScripts\VerticalMiner.csproj", "{A670B80F-2F89-4284-AA88-7383FAFA4D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorizontalMiner", "HorizontalMiner\HorizontalMiner.csproj", "{DE458B39-1F38-48B4-B5A1-9BB4F9441A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HingeMiner", "HingeMiner\HingeMiner.csproj", "{6E97EF10-7D7C-4C3C-8C63-739FF7404ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A670B80F-2F89-4284-AA88-7383FAFA4D47}.Debug|x64.ActiveCfg = Debug|x64
+		{A670B80F-2F89-4284-AA88-7383FAFA4D47}.Debug|x64.Build.0 = Debug|x64
+		{DE458B39-1F38-48B4-B5A1-9BB4F9441A62}.Debug|x64.ActiveCfg = Debug|x64
+		{DE458B39-1F38-48B4-B5A1-9BB4F9441A62}.Debug|x64.Build.0 = Debug|x64
+		{6E97EF10-7D7C-4C3C-8C63-739FF7404ADB}.Debug|x64.ActiveCfg = Debug|x64
+		{6E97EF10-7D7C-4C3C-8C63-739FF7404ADB}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A9F2BF-8A52-491B-BDFF-41A8801A5E4A}
+	EndGlobalSection
+EndGlobal
